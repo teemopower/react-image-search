@@ -1,0 +1,36 @@
+.form-container {
+  margin-bottom: 30px;
+  display: inline-block;
+  width: 1280px;
+}
+
+.form-title {
+  display: inline-block;
+  font-size: 24px;
+  margin: 10px 0 0 20px;
+}
+
+.form-input {
+  display: inline-block;
+  height: 20px;
+  width: 300px;
+  border-radius: 5px;
+  border: thin solid black;
+  margin-left: 160px;
+}
+
+.form-select {
+  display: inline-block;
+  height: 25px;
+  border-radius: 5px;
+  border: thin solid black;
+  margin-left: 20px;
+}
+
+.form-button {
+  background-color: white;
+  height: 25px;
+  border-radius: 5px;
+  border: thin solid black;
+  margin-left: 20px;
+}
